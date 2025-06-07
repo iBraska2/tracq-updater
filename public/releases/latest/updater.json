@@ -1,11 +1,10 @@
 {
   "version": "0.0.0",
-  "notes": "Automated release for 0.0.0",
+  "notes": "Automated release for 0.0.0.",
   "pub_date": "2025-06-07T13:01:56.171Z",
   "platforms": {
     "windows-x86_64": {
-      "version": "0.0.0",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQmc0aUZVRjZJVUl6MWdRN2xaREN1WjJrSTlGWEJkWjY4enBFc2NWQm1PdVRkOU9ocXhCNmhlcGppVURJMjhFVFZEYUVwNkJTUEs1SVV6RDMzbGI4TU9PV1F1RHh1WkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5MzAxMzE2CWZpbGU6VHJhY1FfMC4wLjBfeDY0LXNldHVwLmV4ZQptYW5ETEs5bjZYNWs5YmQ1dFJIZEFNbmROWTBldmZaOVlhSnNPZklLUEtMYXd3UXkxNnpWeUVRNlE1TEFQQmEvdXJMMFVsb3IyZ2FZLzR0a3ZBSXBCdz09Cg==",
+      "signature": "dwSGcnV2ddkVIGN...==",
       "url": "https://ibraska2.github.io/tracq-updater/releases/latest/TracQ_0.0.0_x64-setup.exe"
     }
   }
