@@ -1,11 +1,11 @@
 {
-  "version": "0.1.7",
-  "notes": "Automated release for 0.1.7",
-  "pub_date": "2025-06-07T11:50:49.877Z",
+  "version": "0.1.8",
+  "notes": "Automated release for 0.1.8",
+  "pub_date": "2025-06-07T12:18:37.724Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSGNVKzFOZEVNV1ZPVUNTNVRwY05haE81aVRiUzQxeVNzcm83dFdwMFZqdFlBRG8wZ1JhRGVzQjJXUnlMVm1Sbk5jN0xWdG9mZ0tIWjdBSkNnS0lwcks1L3cxSHF1OVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5Mjk3MDQ5CWZpbGU6VHJhY1FfMC4xLjdfeDY0LXNldHVwLmV4ZQpBZG5yWDNwdlMwY2JhdlB5S1YrSFVqU3ZEL09pN2kyTlhVWmd4TFZDVmdWUU9DRTFEVEdzOHA0bFBrRDFMUzRremdKbWZJQUlBWlhmMUJIS2JtdHBDZz09Cg==",
-      "url": "https://ibraska2.github.io/tracq-updater/releases/latest/TracQ_0.1.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSGNVKzFOZEVNV2M0MXRwc3FaUmhhWjNHaWZFNHVQSDZxZEpWb2FZYlpsU3c2K3IxSDYxbGd6Ym50ZWJlVFlYSERGWFZkUlR0U1FNaDlJUjBDNWNQNUlSVTVFcWoyS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5Mjk4NzE3CWZpbGU6VHJhY1FfMC4xLjhfeDY0LXNldHVwLmV4ZQpORitLb3dUK1pPQnhlL0NHSVlyNnVrbE9SUWRZUnBEN3hyWExOR09ORkVNellQemtPMW83N2l0U3RGZFhSdCtJRzZMdGxjUzBHam5WanVyT2NEVEdBdz09Cg==",
+      "url": "https://ibraska2.github.io/tracq-updater/releases/latest/TracQ_0.1.8_x64-setup.exe"
     }
   }
 }
