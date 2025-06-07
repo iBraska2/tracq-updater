@@ -1,11 +1,11 @@
 {
-  "version": "0.0.0",
-  "notes": "Automated release for 0.0.0.",
-  "pub_date": "2025-06-07T13:01:56.171Z",
+  "version": "0.1.0",
+  "notes": "Automated release for 0.1.0",
+  "pub_date": "2025-06-07T13:36:57.279Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dwSGcnV2ddkVIGN...==",
-      "url": "https://ibraska2.github.io/tracq-updater/releases/latest/TracQ_0.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTI0T2kvcERFUVluREErYjlQZ0E4aTZ3S1ZsdTltSE5sTXgxQ1RsQTRmckNLZ1RJckNyOGgzU0dpN1pJamNrWERHTTJHZTQ5VmREL2xjOVpkcmU2N0k2UWpWcW1LNndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ5MzAzNDEzCWZpbGU6VHJhY1FfMC4xLjBfeDY0LXNldHVwLmV4ZQpCNHFsUW8rcUJkdlk4VklQK3FGNW52T04wMWxXYythbGkzeS8zUjR0YWt0bGl4cUZZVHl5UmtOdUs5UFZMMm9XcVFJUy9zNkdvSVRoZ1VmU0F2dk5BQT09Cg==",
+      "url": "https://ibraska2.github.io/tracq-updater/releases/latest/TracQ_0.1.0_x64-setup.exe"
     }
   }
 }
