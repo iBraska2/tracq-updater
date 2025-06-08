@@ -19,3 +19,4 @@ updater.json
 !updater.json
 !README.md
 !.gitignore
+!.nojekyll
